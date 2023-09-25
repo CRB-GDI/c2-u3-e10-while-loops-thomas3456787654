@@ -1,4 +1,4 @@
-# Assignment name
+# Course 2 Unit 3 Exercise 10: While Loops
 ##Getting Started
 - [ ] Accept the assignment and create your repository for submitting your work
 - [ ] In GitHub Desktop, clone the repository to your desktop.
