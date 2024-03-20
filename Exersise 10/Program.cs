@@ -27,17 +27,20 @@
             //print message using if statement
             if (choice == 1)
                 {
-                    Console.WriteLine("Creating a new game... zzz");
+                    Console.WriteLine("Creating a new game...");
                 }
-            else if (choice == 2);
+            else if (choice == 2)
                 {
-                    Console.WriteLine("Loading game... zzz");
+                    Console.WriteLine("Loading game...");
                 }
-            else if (choice == 3);
+            else if (choice == 3)
                 {
-                    Console.WriteLine("Here are your options... /jk");
+                    Console.WriteLine("Here are your options...");
                 }
-            else if ( choice > 4 || choice)
+            else if (choice > 4 || choice < 1)
+                {
+                    Console.WriteLine("Plese type in 1, 2, 3, or 4");
+                }
                 
             }
         }
